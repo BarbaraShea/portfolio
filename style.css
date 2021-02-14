@@ -14,7 +14,7 @@ body {
      display: flex;
      flex-direction: column;
      line-height: 2.0;
-     background-image: url(pexels-evie-shaffer-2512280.jpg);
+     background-image: url(assets/pexels-evie-shaffer-2512280.jpg);
      background-size: cover;
      background-position: center;
    }
@@ -170,30 +170,30 @@ article {
     align-items: flex-end;
     width: 100%;
     height: 500px;
-    background-image: url(01-html-css-git-homework-demo.png);
+    background-image: url(assets/01-html-css-git-homework-demo.png);
     background-size:cover;
 }
 
 .flower {
-    background-image: url(pexels-jessica-lewis-1039103.jpg);
+    background-image: url(assets/pexels-jessica-lewis-1039103.jpg);
     background-size:cover;
 
 }
 
 .coffee {
-    background-image: url(pexels-viktoria-alipatova-2074130.jpg);
+    background-image: url(assets/pexels-viktoria-alipatova-2074130.jpg);
     background-size:cover;
 
 }
 
 .books {
-    background-image: url(pexels-janko-ferlic-590493.jpg);
+    background-image: url(assets/pexels-janko-ferlic-590493.jpg);
     background-size:cover;
 
 }
 
 .farm {
-    background-image: url(pexels-lisa-fotios-109277.jpg);
+    background-image: url(assets/pexels-lisa-fotios-109277.jpg);
     background-size:cover;
 
 }
