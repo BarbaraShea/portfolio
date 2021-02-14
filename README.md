@@ -17,3 +17,5 @@ Purpose of this project was to develop a portfolio that satisfies a typical hiri
 
 
 # Link
+
+https://barbarashea.github.io/portfolio/
