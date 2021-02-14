@@ -78,17 +78,17 @@ header {
 
 /* Links */
 a:link {
-    color: var(--dark);
+    color:coral;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 25px;
 }
 
 a:visited {
-    color:coral; 
+    color:rgb(250, 230, 223); 
 }
 
 a:hover {
-    color: var(--bright);
+    color:goldenrod;
 }
 /* Nav */
 
