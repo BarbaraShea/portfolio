@@ -10,6 +10,8 @@ Purpose of this project was to develop a portfolio that satisfies a typical hiri
 
 # Preview
 
+![Work Section Preview](work-section.png "Work Section")
+
 
 
 
